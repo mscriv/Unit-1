@@ -10,12 +10,6 @@ tax = Float(gets)
 print "Please enter your tip percentage (eg 15) "
 tip = Float(gets)
 
-# Static
-def calculate_totals()
-
-end
-
-
 
 tax_value = meal * tax/100
 
