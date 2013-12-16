@@ -11,7 +11,6 @@ print "Please enter your tip percentage (eg 15) "
 tip = Float(gets)
 
 
-
 tax_value = meal * tax/100
 
 
